@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![normal_614650aa3c2a1](https://user-images.githubusercontent.com/96977581/165076609-e010bad7-609d-491c-9165-bd9b699c6cab.gif)
-
+<img src="https://user-images.githubusercontent.com/96977581/165076609-e010bad7-609d-491c-9165-bd9b699c6cab.gif" width=50% height=50%>
 
 
 I'm a Berke.
@@ -15,12 +14,11 @@ My favorite techs in this thread :
 
 1)FLUTTER 
 
-![d9ecd0a9-967c-4592-aa7b-ab210378f720](https://user-images.githubusercontent.com/96977581/165076043-92743359-b66a-478a-9d99-327a14552158.jpg)
+<img src="https://user-images.githubusercontent.com/96977581/165076043-92743359-b66a-478a-9d99-327a14552158.jpg" width=50% height=50%>
 
 2)Swift 
 
-
-![swiftui-og](https://user-images.githubusercontent.com/96977581/165076217-a178a938-6396-48f0-8655-54202d03689b.png)
+<img src="https://user-images.githubusercontent.com/96977581/165076217-a178a938-6396-48f0-8655-54202d03689b.png" width=50% height=50%>
 
 
 Nice to meet you !!! 
