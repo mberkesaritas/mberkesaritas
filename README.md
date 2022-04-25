@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/96977581/165076609-e010bad7-609d-491c-9165-bd9b699c6cab.gif" width=50% height=50%>
 
 
-I'm a Berke.
+I'm Berke.
 
 - 🔭 I’m currently working on Mobile development
 - 🌱 I’m currently learning Mobile development
