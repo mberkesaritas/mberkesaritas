@@ -1,42 +1,39 @@
-### Hi there 👋
 
-<img src="https://user-images.githubusercontent.com/96977581/165076609-e010bad7-609d-491c-9165-bd9b699c6cab.gif" width=50% height=50%>
-
-
-I'm Berke.
-
-- 🔭 I’m currently working on Mobile development
-- 🌱 I’m currently learning Mobile development
-- 👯 I’m looking to collaborate on Mobile development 
+<h2>Hi I'm Berke Sarıtaş 👋 <h2>
 
 
-My favorite techs in this thread : 
+<img src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif" width="500">
 
-1)FLUTTER 
+ ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ - 🔭 I am a student of Computer Engineering!
+ - 🌱 I am currently learning mobile development!
+ - 📫 How to reach me **berkesaritas@icloud.com**
+ - ⚡ Fun fact: I love play music !
 
-<img src="https://user-images.githubusercontent.com/96977581/165076043-92743359-b66a-478a-9d99-327a14552158.jpg" width=50% height=50%>
+ <h2 align="left">Languages and Tools:</h2>
 
-2)Swift 
+ 
+ <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/swift.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/flutter.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/python.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/java.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/nodejs.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/firebase.png" />
+  
+ <h2 align="left">Connect with me:</h2>
+  
+<a href="https://twitter.com/berkesaritas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrennium" height="50" width="75" /></a>
+ <a href="https://www.linkedin.com/in/berke-saritaş-b543b121a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osmanemreoz" height="50" width="75" /></a><a href="https://instagram.com/berkesaritas__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="oemreeoz" height="50" width="75" /></a>
+  
+ <h2><h2>
+   
+   
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mberkesaritas&show_icons=true&locale=en">
 
-<img src="https://user-images.githubusercontent.com/96977581/165076217-a178a938-6396-48f0-8655-54202d03689b.png" width=50% height=50%>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mberkesaritas&show_icons=true&locale=en&layout=compact"> 
+
+   
+   
+   
 
 
-Nice to meet you !!! 
 
 
 
 
-<!--
-**mberkesaritas/mberkesaritas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
