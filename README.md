@@ -8,7 +8,7 @@
  - 🔭 I am a student of Computer Engineering!
  - 🌱 I am currently learning mobile development!
  - 📫 How to reach me **berkesaritas@icloud.com**
- - ⚡ Fun fact: I love play music !
+ - ⚡ Fun fact: I love playing music !
 
  <h2 align="left">Languages and Tools:</h2>
 
