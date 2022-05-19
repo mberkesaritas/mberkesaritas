@@ -13,7 +13,7 @@
  <h2 align="left">Languages and Tools:</h2>
 
  
- <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/swift.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/flutter.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/python.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/java.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/nodejs.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/firebase.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/git.png" />
+ <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/swift.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/flutter.png" /> <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/dart.png" /> <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/python.png" />  <img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/java.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/nodejs.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/firebase.png" /><img alt="swift" width="64px" src="https://img.icons8.com/color/240/000000/git.png" />
   
  <h2 align="left">Connect with me:</h2>
   
