@@ -1,5 +1,5 @@
 
-<h2>"Hi I'm Berke Sarıtaş 👋<h2>
+<h2>Hi! I'm Berke Sarıtaş 👋<h2>
 
 <img src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif" width="500">
 
