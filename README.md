@@ -23,7 +23,6 @@
    
    
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mberkesaritas&show_icons=true&locale=en">
-![Stats](https://github-readme-stats.vercel.app/api?username=mberkesaritas&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mberkesaritas&show_icons=true&locale=en&layout=compact"> 
 
