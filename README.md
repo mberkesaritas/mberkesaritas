@@ -25,6 +25,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=mberkesaritas&show_icons=true&locale=en">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mberkesaritas&show_icons=true&locale=en&layout=compact"> 
+  
+![](https://komarev.com/ghpvc/?username=mberkesaritas)
+
 
    
    
