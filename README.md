@@ -6,7 +6,7 @@
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
  - 🔭 I am a student of Computer Engineering!
  - 🌱 I am currently learning mobile development!
- - 📫 How to reach me **berkesaritas@icloud.com**
+ - 📫 How to reach me **berkesaritas@otreradigital.com**
  - ⚡ Fun fact: I love play music !
 
  <h2 align="left">Languages and Tools:</h2>
