@@ -4,7 +4,7 @@
 <img src="https://static1.s123-cdn-static-a.com/uploads/5555641/normal_614650aa3c2a1.gif" width="500">
 
  ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
- - 🔭 I am a student of Computer Engineering!
+
  - 🌱 I am currently learning mobile development!
  - 📫 How to reach me **berkesaritas@otreradigital.com**
  - ⚡ Fun fact: I love play music !
